@@ -8,7 +8,7 @@ The requirement is to have:
 Token lifespan
 
 For the example, token lifespan has been adjusted as follows:
-- SSO session Idele Timeout: 1mn
+- SSO session Idle Timeout: 1mn
 (a.k.a Refresh token validity is 1minute)
 - Access token: 1 min
 - OffLine Tokens: 60 days
